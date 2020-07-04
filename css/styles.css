@@ -175,9 +175,6 @@ footer {
   color: var(--secondary-text-color);
 }
 
-.footer-social .title {
-}
-
 .footer-social .link:hover,
 .footer-social .link:focus {
   --color2: var(--accent-text-color);
